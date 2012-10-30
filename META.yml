@@ -1,6 +1,6 @@
 --- #YAML:1.0
 name:               App-Difio-dotCloud
-version:            2.00
+version:            2.01
 abstract:           Difio registration agent for dotCloud / Perl applications
 author:
     - Alexander Todorov <atodorov@dif.io>
