@@ -3,6 +3,7 @@ Difio registration agent for dotCloud / Perl applications
 This module compiles a list of locally installed Perl distributions and sends it to
 http://www.dif.io where you check your application statistics and available updates.
 
+
 INSTALLATION
 
 To register your dotCloud Perl application to Difio do the following:
